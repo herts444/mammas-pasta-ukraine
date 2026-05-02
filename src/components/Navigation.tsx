@@ -5,6 +5,7 @@ const sections = [
   { id: "hero", label: "Головна" },
   { id: "about", label: "Про нас" },
   { id: "products", label: "Наша паста" },
+  { id: "prices", label: "Ціни" },
   { id: "sauces", label: "Соуси" },
   { id: "lasagna", label: "Лазанья" },
   { id: "cooking", label: "Як варити" },

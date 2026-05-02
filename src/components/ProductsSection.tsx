@@ -110,9 +110,9 @@ const pastas: PastaProduct[] = [
 ];
 
 const ravioliFillings: RavioliFilling[] = [
-  { name: "Рікота та шпинат", ingredients: "рікота, шпинат, сіль", sauces: ["Burro e Salvia", "Burro e Parmigiano"] },
-  { name: "Білий гриб", ingredients: "білий гриб сушений, шампіньйони, пармезан, чорний перець, сіль", sauces: ["Вершковий трюфельний", "Burro e Parmigiano"] },
-  { name: "Яловичина", ingredients: "яловичина, цибуля, часник, чорний перець, сіль", sauces: ["Burro e Salvia", "Томатний"] },
+  { name: "Рікота та шпинат", ingredients: "рікота, шпинат, яйце, цедра лимону, мускатний горіх, сіль, чорний перець", sauces: ["Burro e Salvia", "Burro e Parmigiano"] },
+  { name: "Білий гриб", ingredients: "білий гриб сушений, шампіньйони, цибуля, часник, пармезан, чорний перець, сіль", sauces: ["Вершковий трюфельний", "Burro e Parmigiano"] },
+  { name: "Яловичина", ingredients: "яловичина, цибуля, часник, морква, селера, яйце, мускатний горіх, чорний перець, сіль", sauces: ["Burro e Salvia", "Томатний"] },
 ];
 
 /* ── Detail row ── */

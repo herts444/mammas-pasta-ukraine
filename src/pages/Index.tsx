@@ -1,7 +1,10 @@
 import Navigation from "@/components/Navigation";
 import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
+import WhyFrescaSection from "@/components/WhyFrescaSection";
 import ProductsSection from "@/components/ProductsSection";
+import PricesSection from "@/components/PricesSection";
+import HowToOrderSection from "@/components/HowToOrderSection";
 import SaucesSection from "@/components/SaucesSection";
 import LasagnaSection from "@/components/LasagnaSection";
 import CookingSection from "@/components/CookingSection";
@@ -18,8 +21,14 @@ const Index = () => {
       <HeroSection />
       <ItalianDivider phrase="Pasta fresca" />
       <AboutSection />
+      <ItalianDivider phrase="La differenza" flip />
+      <WhyFrescaSection />
       <ItalianDivider phrase="Buon appetito" flip />
       <ProductsSection />
+      <ItalianDivider phrase="Listino prezzi" flip />
+      <PricesSection />
+      <ItalianDivider phrase="Come ordinare" />
+      <HowToOrderSection />
       <ItalianDivider phrase="Al dente" />
       <SaucesSection />
       <ItalianDivider phrase="Che buono!" flip />
